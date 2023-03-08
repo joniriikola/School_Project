@@ -1,0 +1,43 @@
+[
+    {
+        "name":"Tomato",
+        "id":0
+    },
+    {
+        "name":"Chicken",
+        "id":1
+    },
+    {
+        "name":"Ham",
+        "id":2
+    },
+    {
+        "name":"Avocado",
+        "id":3
+    },
+    {
+        "name":"Cheddar Cheese",
+        "id":4
+    },
+    {
+        "name":"Mozarella",
+        "id":5
+    },
+    {
+        "name":"Houmous",
+        "id":6
+    },
+    {
+        "name":"Lettuce",
+        "id":7
+    },
+    {
+        "name":"Cucumber",
+        "id":8
+    },
+    {
+        "name":"Mayo",
+        "id":9
+    }
+]
+
